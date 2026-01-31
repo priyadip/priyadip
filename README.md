@@ -120,7 +120,11 @@ Introduction to Machine Learning (July 2025 – December 2025)
 
 ## GitHub Analytics
 
-
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/priyadip?template=classic&config.timezone=Asia/Kolkata"
+  />
+</p>
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=priyadip&theme=github-dark-blue&hide_border=true"
