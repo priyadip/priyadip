@@ -58,15 +58,44 @@ Prior to my M.Tech, I completed my M.Sc. in Mathematics, which provides a rigoro
 
 ---
 
-## Technical Proficiencies
+## Tech Stack
 
-| Domain | Tools & Frameworks |
-|--------|-------------------|
-| **Deep Learning** | PyTorch, Hugging Face (Transformers, TRL, Accelerate, PEFT), SentenceTransformers |
-| **LLM & GenAI** | QLoRA, LoRA, BitsAndBytes, Qwen-2.5, Llama-3.1, Transformer Architectures |
-| **ML & Optimization** | Scikit-learn, RAPIDS (cuML), HDBSCAN, PCA, UMAP, Convex Optimization |
-| **Infrastructure** | Modal (Serverless GPU), FastAPI, Docker, Git, Linux |
-| **Languages** | Python, C/C++, SQL, LaTeX |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Deep Learning & ML Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+**LLM & GenAI**
+
+![QLoRA](https://img.shields.io/badge/QLoRA-FF6F00?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-FF9800?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT-7C4DFF?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-00C853?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
@@ -92,8 +121,18 @@ Introduction to Machine Learning (July 2025 – December 2025)
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyadip&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadip&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+  <a href="https://github.com/priyadip">
+    <img src="https://github-readme-stats.vercel.app/api?username=priyadip&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/priyadip">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadip&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/priyadip">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyadip&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
@@ -110,18 +149,3 @@ For research collaborations, discussions on LLM alignment, or PEFT methodologies
 <p align="center">
   <i>"The goal is not to build models that perform well, but models that generalize wisely."</i>
 </p>
-
-<!--
-**priyadip/priyadip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
