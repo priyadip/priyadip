@@ -7,6 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-priyadip--cs-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/priyadip-cs)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=flat-square&logo=googlescholar)](https://scholar.google.com/)
 [![Twitter](https://img.shields.io/badge/X-@PriyadipSau-000000?style=flat-square&logo=x)](https://x.com/PriyadipSau)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-priyadip-yellow?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/priyadip)
+[![Weights & Biases](https://img.shields.io/badge/W%26B-priyadip-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)](https://wandb.ai/saupriyadip571)
+[![Bluesky](https://img.shields.io/badge/Bluesky-priyadipsau.bsky.social-0285FF?style=flat-square)](https://bsky.app/profile/priyadipsau.bsky.social)
+
 
 ---
 
@@ -122,17 +126,6 @@ Introduction to Machine Learning (July 2025 – December 2025)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=priyadip&theme=github-dark-blue&hide_border=true" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=LLM+Alignment+%26+PEFT+Researcher;Multi-Modal+Representation+Learning;M.Tech+AI+%40+IIT+Jodhpur" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=priyadip&theme=github-dark-blue&hide_border=true"
-    height="170"
-  />
 </p>
 
 <p align="center">
