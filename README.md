@@ -121,19 +121,23 @@ Introduction to Machine Learning (July 2025 – December 2025)
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/priyadip">
-    <img src="https://github-readme-stats.vercel.app/api?username=priyadip&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/priyadip">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadip&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=priyadip&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadip&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/priyadip">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyadip&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=priyadip&theme=github-dark-blue&hide_border=true"
+    height="170"
+  />
 </p>
+
 
 ---
 
