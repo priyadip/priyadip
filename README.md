@@ -120,7 +120,7 @@ Introduction to Machine Learning (July 2025 – December 2025)
 
 ## GitHub Analytics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyadip&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/priyadip/priyadip/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
 </p>
 
 <p align="center">
