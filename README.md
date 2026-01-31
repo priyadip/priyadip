@@ -119,6 +119,9 @@ Introduction to Machine Learning (July 2025 – December 2025)
 ---
 
 ## GitHub Analytics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyadip&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=LLM+Alignment+%26+PEFT+Researcher;Multi-Modal+Representation+Learning;M.Tech+AI+%40+IIT+Jodhpur" alt="Typing SVG"/>
