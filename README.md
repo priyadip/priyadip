@@ -119,6 +119,28 @@ Introduction to Machine Learning (July 2025 – December 2025)
 ---
 
 ## GitHub Analytics
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=priyadip&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadip&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=priyadip&theme=github-dark-blue&hide_border=true"
+    height="170"
+  />
+</p>
+
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyadip&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
