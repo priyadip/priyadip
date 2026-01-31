@@ -122,9 +122,10 @@ Introduction to Machine Learning (July 2025 – December 2025)
 
 <p align="center">
   <img
-    src="https://metrics.lecoq.io/priyadip?template=classic&config.timezone=Asia/Kolkata"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadip&layout=compact&hide_border=true"
   />
 </p>
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=priyadip&theme=github-dark-blue&hide_border=true"
