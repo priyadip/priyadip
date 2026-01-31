@@ -121,10 +121,9 @@ Introduction to Machine Learning (July 2025 – December 2025)
 ## GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadip&layout=compact&hide_border=true"
-  />
+  <img src="https://metrics.lecoq.io/priyadip?template=classic" />
 </p>
+
 
 <p align="center">
   <img
