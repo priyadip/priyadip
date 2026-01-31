@@ -120,13 +120,14 @@ Introduction to Machine Learning (July 2025 – December 2025)
 
 ## GitHub Analytics
 
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=priyadip&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=priyadip&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadip&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadip&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
     height="170"
   />
 </p>
@@ -137,6 +138,7 @@ Introduction to Machine Learning (July 2025 – December 2025)
     height="170"
   />
 </p>
+
 
 
 ---
